@@ -3,7 +3,7 @@
 
 ##
 
-- 💻 Estudando e aprendendo muito sobre a programação...
+- 💻 Estudando e aprendendo muito sobre programação...
 - 📚 Estudando ReactJS
 - ✉ Contate-me no e-mail: michigamidaniel77@gmail.com
 ##
