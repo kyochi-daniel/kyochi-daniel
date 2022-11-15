@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🪪 Web Developer Front-End<br>
 📚 Académico em ADS (Análise e Desenvolvimento de Sistemas)<br>
 <br>Sou um amante pela tecnologia e disposto a aprender cada vez mais! 📚<br><br>
