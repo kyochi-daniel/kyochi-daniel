@@ -1,7 +1,9 @@
 # 💫 Sobre mim:
 🪪 Web Developer Front-End<br>
 📚 Académico em ADS (Análise e Desenvolvimento de Sistemas)<br>
-<br>Sou um amante pela tecnologia e disposto a aprender cada vez mais! 📚<br><br>
+<br>Sou um amante pela tecnologia e disposto a aprender cada vez mais! 📚<br>
+
+Contato: michigamidaniel77@gmail.com
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danielkyochi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kyochi-7782aa235/) 
