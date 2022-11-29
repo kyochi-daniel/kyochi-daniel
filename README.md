@@ -1,5 +1,3 @@
-<img align="center" src="https://imgur.com/gttvzZS.png">
-
 # 💫 Sobre mim:
 🪪 Web Developer Front-End<br>
 📚 Académico em ADS (Análise e Desenvolvimento de Sistemas)<br>
