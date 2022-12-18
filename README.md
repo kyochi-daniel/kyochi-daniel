@@ -11,10 +11,8 @@
 - Version Code Control: `Git & Github`
 - Tools: `VsCode`
 
-### 🌐 Social media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danielkyochi) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kyochi) 
-
-### ✉️ Contato
-michigamidaniel77@gmail.com
+### ✉️ Contacts
+- Email: michigamidaniel77@gmail.com
+- Linkedin: https://www.linkedin.com/in/daniel-kyochi
+- Instagram: https://instagram.com/danielkyochi
  
