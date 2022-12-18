@@ -13,5 +13,5 @@
 
 ### ✉️ Contacts
 - 📬 Email: michigamidaniel77@gmail.com
-- 🪪♂️ Linkedin: https://www.linkedin.com/in/daniel-kyochi
+- 🪪 Linkedin: https://www.linkedin.com/in/daniel-kyochi
  
