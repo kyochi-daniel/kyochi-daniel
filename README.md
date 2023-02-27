@@ -5,8 +5,7 @@
 
 ### 🔥 Current stack
 - ⚡️ Main language: `Javascript`
-- 🪄 Frontend: `HTML`, `CSS`, `Javascript`, `ReactJs` and `TailwindCSS`
-- 💾 Backend: `NodeJs`
+- 🪄 Frontend: `HTML`, `CSS`, `Javascript`, `ReactJs`, `NextJs` and `TailwindCSS`
 - 🎨 Layout Design: `Figma`
 - 📦 Version Code Control: `Git & Github`
 - 🛠 Tools: `VsCode`
