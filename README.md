@@ -9,8 +9,3 @@
 - 🎨 Layout Design: `Figma`
 - 📦 Version Code Control: `Git & Github`
 - 🛠 Tools: `VsCode`
-
-### ✉️ Contacts
-- 📬 Email: michigamidaniel77@gmail.com
-- 🪪 Linkedin: https://www.linkedin.com/in/daniel-kyochi
- 
