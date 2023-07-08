@@ -9,3 +9,6 @@
 - 🎨 Layout Design: `Figma`
 - 📦 Version Code Control: `Git & Github`
 - 🛠 Tools: `VsCode`
+
+### 👨🏻‍💻 Portfolio
+https://daniel-kyochi-portfolio.vercel.app/
