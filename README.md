@@ -4,11 +4,9 @@
  I'm a Web Developer. And, I'm studying web developer at [Rocketeseat](https://rocketseat.com.br/).
 
 ### 🔥 Current stack
-- ⚡️ Main language: `Javascript`
-- 🪄 Frontend: `HTML`, `CSS`, `Javascript`, `ReactJs` and `TailwindCSS`
+- ⚡️ Main language: `Javascript` and `Typescript`
+- 🪄 Frontend: `Nuxt4`.
+- 💻 Backend: `Supabase` and `PostgreSQL`
 - 🎨 Layout Design: `Figma`
 - 📦 Version Code Control: `Git & Github`
 - 🛠 Tools: `VsCode`
-
-### 👨🏻‍💻 Portfolio
-https://daniel-kyochi-portfolio.vercel.app/
