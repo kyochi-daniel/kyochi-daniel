@@ -5,7 +5,7 @@
 
 ### 🔥 Current stack
 - ⚡️ Main language: `Javascript` and `Typescript`
-- 🪄 Frontend: `Nuxt4`.
+- 🪄 Frontend: `React` and `Nuxt`.
 - 💻 Backend: `Supabase` and `PostgreSQL`
 - 🎨 Layout Design: `Figma`
 - 📦 Version Code Control: `Git & Github`
