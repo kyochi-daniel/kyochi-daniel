@@ -1,12 +1,12 @@
-# Hi there, I'm Daniel Kyochi 👋
+[![Daniel Kyochi — Desenvolvedor Full Stack](./banner-kyochi.png)](https://www.kyochi.dev/)
 
-### 📖 About
- I'm a Web Developer. And, I'm studying web developer at [Rocketeseat](https://rocketseat.com.br/).
+### Olá 👋
 
-### 🔥 Current stack
-- ⚡️ Main language: `Javascript` and `Typescript`
-- 🪄 Frontend: `React` and `Vue`.
-- 💻 Backend: `Supabase` and `PostgreSQL`
-- 🎨 Layout Design: `Figma`
-- 📦 Version Code Control: `Git & Github`
-- 🛠 Tools: `VsCode`
+Sou desenvolvedor web frontend e fullstack, autônomo desde 2020. Crio interfaces, sistemas e automações que simplificam rotinas e resolvem problemas reais.
+
+- **Stack principal:** TypeScript, Vue, Nuxt e Node.js.
+- **Dados:** PostgreSQL, MongoDB e Supabase.
+- **Também utilizo:** JavaScript, React, Figma, Git e VS Code.
+- **Formação:** pós-graduação em Engenharia de IA Aplicada em andamento; estudos de desenvolvimento web na [Rocketseat](https://rocketseat.com.br/).
+
+[Portfólio](https://www.kyochi.dev/) · [LinkedIn](https://www.linkedin.com/in/daniel-kyochi/)
