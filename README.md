@@ -15,9 +15,9 @@ Na pós-graduação em Engenharia de IA Aplicada, desenvolvo projetos acadêmico
 
 ### Modelos publicados no Hugging Face
 
-**Delivery Match** — recomendador acadêmico de refeições que combina histórico de pedidos, avaliações e comportamento simulado. Modelo treinado com scikit-learn, avaliação temporal e comparação com baselines. Todos os dados são sintéticos; os resultados não representam clientes reais.
+**Modelo de recomendação de refeições** — recomendador acadêmico de refeições que combina histórico de pedidos, avaliações e comportamento simulado. Modelo treinado com scikit-learn, avaliação temporal e comparação com baselines. Todos os dados são sintéticos; os resultados não representam clientes reais.
 
-[🤗 Ver modelo e métricas](https://huggingface.co/kyochi-daniel/delivery-match-academico) · [Experimentar a demonstração](https://huggingface.co/spaces/kyochi-daniel/delivery-match-demo) · [Código e treinamento](https://github.com/kyochi-daniel/delivery-match-academico)
+[🤗 Ver modelo e métricas](https://huggingface.co/kyochi-daniel/recomendacao-refeicoes) · [Experimentar a demonstração](https://huggingface.co/spaces/kyochi-daniel/recomendacao-refeicoes-demo) · [Código e treinamento](https://github.com/kyochi-daniel/recomendacao-refeicoes)
 
 **Modelo para detecção de prompt injection** — treinamento de um classificador de texto em português para identificar possíveis tentativas de manipular instruções de agentes de IA. Usa dados sintéticos, avaliação por famílias e comparação com regras simples. A demonstração mostra os sinais da classificação e os erros observados; não é uma proteção pronta para produção.
 
@@ -31,6 +31,6 @@ Na pós-graduação em Engenharia de IA Aplicada, desenvolvo projetos acadêmico
 - [Diagnóstico de incidentes com Grafana e MCP](https://github.com/kyochi-daniel/diagnostico-incidentes-grafana-mcp) — correlação de logs, métricas e traces em um cenário reproduzível.
 - [Recomendador com TensorFlow.js](https://github.com/kyochi-daniel/recomendador-tensorflowjs) — preparação de dados, treinamento de rede neural e recomendação de produtos no navegador.
 
-Os projetos desta lista foram realizados para fins acadêmicos, com base no material da pós-graduação. O Delivery Match e o modelo para detecção de prompt injection são estudos independentes. Cada repositório documenta sua origem, adaptações, forma de execução e limitações.
+Os projetos desta lista foram realizados para fins acadêmicos, com base no material da pós-graduação. O Modelo de recomendação de refeições e o modelo para detecção de prompt injection são estudos independentes. Cada repositório documenta sua origem, adaptações, forma de execução e limitações.
 
 [Portfólio](https://www.kyochi.dev/) · [LinkedIn](https://www.linkedin.com/in/daniel-kyochi/)
