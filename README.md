@@ -11,7 +11,7 @@ Na pós-graduação em Engenharia de IA Aplicada, desenvolvo projetos acadêmico
 - **Dados:** PostgreSQL, MongoDB, Neo4j e SQLite.
 - **Observabilidade:** OpenTelemetry, Grafana, Prometheus, Loki e Tempo em laboratórios de diagnóstico de incidentes.
 - **Também utilizo:** Figma, Git e VS Code.
-- **Formação:** pós-graduação em Engenharia de IA Aplicada em andamento; estudos de desenvolvimento web na [Rocketseat](https://rocketseat.com.br/).
+- **Formação:** pós-graduação em Engenharia de IA Aplicada na [Unipds](https://unipds.com.br/) em andamento; estudos de desenvolvimento web na [Rocketseat](https://rocketseat.com.br/).
 
 ### Projetos de IA em destaque
 
