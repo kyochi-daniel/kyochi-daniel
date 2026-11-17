@@ -7,7 +7,7 @@ Sou desenvolvedor full stack, autônomo desde 2020, com foco em **IA aplicada e 
 Na pós-graduação em Engenharia de IA Aplicada, desenvolvo projetos acadêmicos que exploram **RAG, memória conversacional, saídas estruturadas, workflows com LangGraph e integração de ferramentas via MCP**. Também estudo machine learning com TensorFlow.js e scikit-learn, incluindo treinamento, avaliação de recomendadores e classificadores de texto e publicação de modelos no Hugging Face.
 
 - **Desenvolvimento:** TypeScript, JavaScript, Vue, Nuxt, Node.js e React.
-- **IA e LLMs:** LangChain, LangGraph, OpenRouter, RAG, embeddings, MCP e TensorFlow.js.
+- **IA e LLMs:** Genkit, LangChain, LangGraph, OpenRouter, RAG, embeddings, MCP e TensorFlow.js.
 - **Dados:** PostgreSQL, MongoDB, Neo4j e SQLite.
 - **Observabilidade:** OpenTelemetry, Grafana, Prometheus, Loki e Tempo em laboratórios de diagnóstico de incidentes.
 - **Também utilizo:** Figma, Git e VS Code.
@@ -22,6 +22,14 @@ Na pós-graduação em Engenharia de IA Aplicada, desenvolvo projetos acadêmico
 **Modelo para detecção de prompt injection** — treinamento de um classificador de texto em português para identificar possíveis tentativas de manipular instruções de agentes de IA. Usa dados sintéticos, avaliação por famílias e comparação com regras simples. A demonstração mostra os sinais da classificação e os erros observados; não é uma proteção pronta para produção.
 
 [🤗 Ver modelo e avaliação](https://huggingface.co/kyochi-daniel/deteccao-prompt-injection) · [Experimentar a demonstração](https://huggingface.co/spaces/kyochi-daniel/deteccao-prompt-injection-demo) · [Código e treinamento](https://github.com/kyochi-daniel/deteccao-prompt-injection)
+
+### Agente de IA para operações em sistemas
+
+Projeto pessoal para testes de implementação e fins acadêmicos: integra um agente às ferramentas da aplicação para transformar pedidos em linguagem natural em operações revisadas e confirmadas pela pessoa. Clientes e contratos são o exemplo funcional; novos módulos podem ser atendidos ao implementar ferramentas e regras específicas, respeitando os limites de acesso de cada operação.
+
+O protótipo usa Genkit, Nuxt, Vue e TypeScript, com cadastros no navegador e inferência remota. Demonstra preparação de lotes, confirmação humana e exclusão reversível; permissões por cargo são uma evolução futura.
+
+[Ver projeto e documentação](https://github.com/kyochi-daniel/assistente-local-genkit) · [Assistir à demonstração real](https://github.com/kyochi-daniel/assistente-local-genkit/blob/main/docs/media/demonstracao.mp4)
 
 ### Projetos de IA em destaque
 
